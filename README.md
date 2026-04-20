@@ -2,10 +2,8 @@
 
 A front-end clone of Booking.com's home, login, and register pages, built with **HTML**, **Tailwind CSS**, and **JavaScript**.
 
-![Screenshot](link-to-screenshot.png)   <!-- optional -->
+<img width="1907" height="932" alt="image" src="https://github.com/user-attachments/assets/02255ad0-c7ce-4412-9ff6-8f30683b1b23" />
 
-## 🚀 Live Demo
-[Add your Netlify/Vercel link here if deployed]
 
 ## ✨ Features
 - Fully responsive home page with search bar and property cards.
